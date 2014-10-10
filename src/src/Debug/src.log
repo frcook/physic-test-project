@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\users\student\desktop\games\projects2\physcis\src\src\main.cpp(174): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+c:\users\student\desktop\games\projects2\physcis\src\src\main.cpp(174): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  LINK : ..\..\bin\run_d.exe not found or not built by the last incremental link; performing full link
+MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  src.vcxproj -> C:\Users\Student\Desktop\Games\projects2\physcis\src\src\..\..\bin\run_d.exe
